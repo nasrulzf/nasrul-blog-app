@@ -1,0 +1,14 @@
+org\nasrul\blog\controller\KategoriController.class
+org\nasrul\blog\entity\User.class
+org\nasrul\blog\controller\IndexController.class
+org\nasrul\blog\controller\ArtikelController.class
+org\nasrul\blog\repo\KomentarRepo.class
+org\nasrul\blog\service\InitDbService.class
+org\nasrul\blog\repo\ArtikelRepo.class
+org\nasrul\blog\repo\UserRepo.class
+org\nasrul\blog\entity\Artikel.class
+org\nasrul\blog\repo\KategoriRepo.class
+org\nasrul\blog\entity\Komentar.class
+org\nasrul\blog\service\KategoriService.class
+org\nasrul\blog\service\ArtikelService.class
+org\nasrul\blog\entity\Kategori.class
